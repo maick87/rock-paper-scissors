@@ -16,8 +16,8 @@ This Python script allows users to play the classic game of Rock, Paper, Scissor
 
 **Installing modules**
 type the prompt in the terminal
-- py -m install random
-- py -m install os
+- `py -m install random`
+- `py -m install os`
 
 **Dependencies:**
 - Python 3.12.3
@@ -35,5 +35,3 @@ py rock_paper_scissors.py
 **Contributing:**
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-**License:**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
