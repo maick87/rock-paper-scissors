@@ -15,7 +15,7 @@ This Python script allows users to play the classic game of Rock, Paper, Scissor
 4. Choose to play again or exit the game.
 
 **Installing modules**
-type the prompt in the terminal
+- type the prompt in the terminal
 - `py -m install random`
 - `py -m install os`
 
